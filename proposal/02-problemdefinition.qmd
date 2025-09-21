@@ -21,4 +21,12 @@ It is important to cover:
 -->
 ```
 
-An example in-text citation [@wickham2016].
+# Problem
+
+# Who it impacts
+
+# Why it is a problem
+
+# What will solving the problem enable
+
+# Summary of existing work
