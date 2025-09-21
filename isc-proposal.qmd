@@ -13,6 +13,8 @@ format:
     embed-resources: true
   pdf:
     embed-resources: true
+editor:
+  render-on-save: true
 bibliography: references.bib
 ---
 
