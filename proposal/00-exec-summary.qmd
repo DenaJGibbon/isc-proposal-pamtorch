@@ -1,3 +1,4 @@
+  
 # Executive Summary
 
 ```{=html}
@@ -6,6 +7,6 @@ This section provides a condensed view of the entire proposal, one page long.
 It should be a comprehensive high-level overview that captures the essence of the proposal, including its goals, methods, expected outcomes, deliverables, and budget.
 -->
 ```
-The interconnected crises of biodiversity collapse, climate change, and systemic health decline are a conservation challenge. Conservation technology like camera traps, drones, eDNA, and passive acoustic monitoring are critical tools for conservationists to monitor the impacts of conservation interventions on biodiversity. The R programming environment is widely used by ecologists and conservationists.
+The interconnected crises of biodiversity collapse, climate change, and systemic health decline are a major conservation challenge. Conservation technology like camera traps, drones, eDNA, and passive acoustic monitoring are critical tools for addressing this challange as they help conservationists monitor the impacts of conservation interventions on biodiversity. The R programming environment is widely used by ecologists and conservationists.
 
 Existing solutions in R include GibbonNetR @clink2025gibbonnetr
