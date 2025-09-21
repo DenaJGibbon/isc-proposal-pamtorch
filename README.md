@@ -1,29 +1,5 @@
 pamtorch: an ecoystem for analysis of passive acoustic monitoring data
 in R
 ================
-true
-today
-
-# 🚧🚧🚧 UNDER CONSTRUCTION 🚧🚧🚧
-
-This repository is currently being revisited. An update will be released
-in early September 2025.
-
-🚧🚧🚧 UNDER CONSTRUCTION 🚧🚧🚧 This repository is currently being
-revisited. An update will be released in early September 2025.
-
-Executive Summary The interconnected crises of biodiversity collapse,
-climate change, and systemic health decline are a conservation
-challenge. Conservation technology like camera traps, drones, eDNA, and
-passive acoustic monitoring are critical tools for conservationists to
-monitor the impacts of conservation interventions on biodiversity. The R
-programming environment is widely used by ecologists and
-conservationists
-
-Signatories Project team Contributors Consulted The Problem An example
-in-text citation (Wickham 2016).
-
-The proposal Overview Detail Minimum Viable Product Architecture
-Assumptions External dependencies Project plan Start-up phase Technical
-delivery Other aspects Budget & funding plan Success Definition of done
-Measuring success Future work References ::: refs :::
+# README
+Link to proposal: https://denajgibbon.github.io/isc-proposal-pamtorch/
